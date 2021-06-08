@@ -8,14 +8,14 @@
   border-color: #4b698b;
 }
 
-.button1:active { 
- background-color: #133253;
- border-color: #133253;
+.button1:active {
+  background-color: #133253;
+  border-color: #133253;
 }
 
-.button1:focus { 
- background-color: #133253;
- border-color: #133253;
+.button1:focus {
+  background-color: #133253 !important;
+  border-color: #133253 !important;
 }
 
 body {
